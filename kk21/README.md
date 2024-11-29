@@ -1,8 +1,5 @@
-# kk21 - goldex bot project
 
 ## Branch: develop
-
-This repository contains goldex bot project for KK17.
 
 with simple rotating hand, no dispencer control, no hran
 
